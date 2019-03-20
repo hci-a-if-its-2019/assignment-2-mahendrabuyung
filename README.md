@@ -8,11 +8,9 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 
 ### 1. Scan/Photo of Sketches
 ```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
+#### 1.1 Original Version Sketch
+![Original Version Sketch](Sketch ASSIGNMENT 2/S__8044568.jpg)
 ```
-
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
 
 ### 2. Version Differences
 ```
