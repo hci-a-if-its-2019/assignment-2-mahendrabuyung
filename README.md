@@ -20,9 +20,10 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 ![solution sketch 3](/Sketch ASSIGNMENT 2/S__8044567.jpg)
 
 ### 2. Version Differences
-```
-Please write a paragraph talking about the differences between the versions
-```
+The differences from the three versions of the UI solution that I describe are:
+1. The first version has an appearance that is almost the same as the original version, but in version 1 it has an additional search bar, besides the category bar above the channel selection directly it is easier to search for radio channels based on the category.
+2. The second version has a search bar under the myTunerRadio logo and has a setting button on the top right to make access settings easier. And the menu bar at the bottom is simplified into 3 menus that include several menus in the original version.
+3. the third version has the search bar and settings above like the second version, but the difference lies in the placement of the categorized menu bar on the left of the screen and the bar category for the radio channel on the top right using the slide bar feature (left and right) , so that the menu bar at the bottom of the screen is removed
 
 ### 3. Selected Sketch
 ```
