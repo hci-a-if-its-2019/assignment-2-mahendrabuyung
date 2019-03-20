@@ -8,16 +8,16 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 
 ### 1. Scan/Photo of Sketches
 #### 1.1 Original Version Sketch
-![Original Version Sketch](Sketch ASSIGNMENT 2/S__8044568.jpg)
+![Original Version Sketch](/Sketch ASSIGNMENT 2/S__8044568.jpg)
 
 #### 1.2 Solution Sketch 1
-![Solution Sketch 1](Sketch ASSIGNMENT 2/S__8044566.jpg)
+![Solution Sketch 1](/Sketch ASSIGNMENT 2/S__8044566.jpg)
 
 #### 1.3 Solution Sketch 2
-![Solution Sketch 2](Sketch ASSIGNMENT 2/S__8044565.jpg)
+![Solution Sketch 2](/Sketch ASSIGNMENT 2/S__8044565.jpg)
 
 #### 1.4 Solution Sketch 3
-![Solution Sketch 3](Sketch ASSIGNMENT 2/S__8044567.jpg)
+![Solution Sketch 3](/Sketch ASSIGNMENT 2/S__8044567.jpg)
 
 ### 2. Version Differences
 ```
