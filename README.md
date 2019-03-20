@@ -33,13 +33,6 @@ Based on the rationale design and contextual inquiry, the first version is a sui
 
 ## Part B: Assumptions
 ### 1. Hardware
-```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
-```
 1. Operating System : iOS for iPhone
 2. Screen Resolution  : 1334x750 (326 ppi, minus one row of pixels) or higher.
 3. Screen Color : 
@@ -51,13 +44,6 @@ like whether the screen is color or black and white, etch.
 5. Output : Speaker or Headset
 
 ### 2. Users
-```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
-```
 1. The experience level is based on how fast the user can operate the main menu of the application.
 2. All users that ever operating the radio/music/video streamer application.
 3. The users age about 15-50 years old.
