@@ -23,19 +23,13 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 The differences from the three versions of the UI solution that I describe are:
 1. The first version has an appearance that is almost the same as the original version, but in version 1 it has an additional search bar, besides the category bar above the channel selection directly it is easier to search for radio channels based on the category.
 2. The second version has a search bar under the myTunerRadio logo and has a setting button on the top right to make access settings easier. And the menu bar at the bottom is simplified into 3 menus that include several menus in the original version.
-3. the third version has the search bar and settings above like the second version, but the difference lies in the placement of the categorized menu bar on the left of the screen and the bar category for the radio channel on the top right using the slide bar feature (left and right) , so that the menu bar at the bottom of the screen is removed
+3. The third version has the search bar and settings above like the second version, but the difference lies in the placement of the categorized menu bar on the left of the screen and the bar category for the radio channel on the top right using the slide bar feature (left and right) , so that the menu bar at the bottom of the screen is removed.
 
 ### 3. Selected Sketch
-```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
-```
+From the three version that I describe, I prefer to choose the first version.
 
 ### 4. Design Rationale
-```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
-```
+Based on the rationale design and contextual inquiry, the first version is a suitable display because it has a complete menu menu and is visible in the initial display of the application. With the search bar and setting buttons make it easier for users to operate. Besides that with a menu bar with fewer and simpler choices, it will make it easier for users to reach the desired choices.
 
 ## Part B: Assumptions
 ### 1. Hardware
@@ -46,6 +40,16 @@ using accelerometer/gyroscope, using mouse, keyboard, etc.
 Please be specific with the required hardware and any other assumptions, 
 like whether the screen is color or black and white, etch.
 ```
+1. Operating System : iOS for iPhone
+2. Screen Resolution  : 1334x750 (326 ppi, minus one row of pixels) or higher.
+3. Screen Color : 
+  - Background (Major Color) : White
+  - Accent (Minor Color)  : Red
+  - Word  : Black
+  - Others : RGB
+4. Input  : Touch Screen
+5. Output : Speaker or Headset
+
 ### 2. Users
 ```
 Please write down the assumptions about your users. 
@@ -54,6 +58,9 @@ Who familiar with computers/gadget will they be?
 What ages? 
 Are there any other factors about the users that will influence your design?
 ```
+1. The experience level is based on how fast the user can operate the main menu of the application.
+2. All users that ever operating the radio/music/video streamer application.
+3. The users age about 15-50 years old.
 
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
