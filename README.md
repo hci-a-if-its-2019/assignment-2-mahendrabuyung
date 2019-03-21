@@ -26,10 +26,10 @@ The differences from the three versions of the UI solution that I describe are:
 3. The third version has the search bar and settings above like the second version, but the difference lies in the placement of the categorized menu bar on the left of the screen and the bar category for the radio channel on the top right using the slide bar feature (left and right) , so that the menu bar at the bottom of the screen is removed.
 
 ### 3. Selected Sketch
-From the three version that I describe, I prefer to choose the first version.
+From the three version that I describe, I prefer to choose the second version.
 
 ### 4. Design Rationale
-Based on the rationale design and contextual inquiry, the first version is a suitable display because it has a complete menu menu and is visible in the initial display of the application. With the search bar and setting buttons make it easier for users to operate. Besides that with a menu bar with fewer and simpler choices, it will make it easier for users to reach the desired choices.
+Based on the rationale design and contextual inquiry, the second version is a suitable display because it has a complete menu menu and is visible in the initial display of the application. With the search bar and setting buttons make it easier for users to operate. Besides that with a menu bar with fewer and simpler choices, it will make it easier for users to reach the desired choices.
 
 ## Part B: Assumptions
 ### 1. Hardware
