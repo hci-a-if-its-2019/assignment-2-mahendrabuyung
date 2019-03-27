@@ -49,4 +49,5 @@ Based on the rationale design and contextual inquiry, the second version is a su
 3. The users age about 15-50 years old.
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+The prototype of the apps, can be checked in https://projects.invisionapp.com/freehand/document/bLwbVSemN
+
