@@ -52,4 +52,4 @@ Based on the rationale design and contextual inquiry, the second version is a su
 The prototype of the apps, can be checked in https://projects.invisionapp.com/freehand/document/bLwbVSemN
 ![Part C: Prototypes](proto_1.jpg)
 
-Prototype of my version of myTunerRadio: https://invis.io/HPR8JMPJD63#/354732026_Home
+Prototype of my version of myTunerRadio:https://invis.io/79RCSJDTYVW#/356034690_Podcast_MyTunerRadio
